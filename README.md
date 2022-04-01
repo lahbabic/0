@@ -2,6 +2,4 @@
 
 ##### factorial bug
 
-x! = 1! ==> x = 1
-
-0! = 1! = 1 ==> 0 = 1
+![image](https://github.com/lahbabic/math_bug/blob/main/picture0.jpg)
