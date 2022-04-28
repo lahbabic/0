@@ -10,3 +10,7 @@
 
 
 ![image](https://github.com/lahbabic/math_bug/blob/main/picture11.png)
+
+##### Neutre:
+
+![image](https://github.com/lahbabic/math_bug/blob/main/neutre.jpg)
